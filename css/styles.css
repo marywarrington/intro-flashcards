@@ -1,19 +1,37 @@
 .flashcard {
-  border: 1px solid black;
-  border-radius: 5px;
+  border: 5px solid #0fa0aa;
+  border-radius: 20px;
   text-align: center;
   height: 200px;
   margin: 10px;
+  background-color: #09bfb0;
+
 }
 
 .word {
   font-size: 20pt;
-  color: blue;
+  color: #DAE8A4;
   font-weight: bold;
   padding-top: 20%;
 }
 
 .definition {
   display: none;
-  padding: 25% 5px 0px 5px;
+  padding: 5px 5px 0px 5px;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+body {
+  background-color: #64FFF2;
+}
+
+.heading {
+  text-align: center;
+  color: #0AA99C;
+}
+
+.flashcard:hover {
+  background-color: #0fa0aa;
+  cursor: pointer;
 }
