@@ -10,7 +10,7 @@ This website contains clickable flashcards with common JavaScript lingo. It is a
 
 ## Setup/Installation Requirements
 
-* You can download a repository for this project at < # url here > or...
+* You can download a repository for this project at <https://github.com/marywarrington/intro-flashcards.git> or...
 * View the site on any standard web browser.
 
 The resources for this website (bootstrap, jQuery) are included.
