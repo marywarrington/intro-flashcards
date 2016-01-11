@@ -2,15 +2,18 @@
   border: 1px solid black;
   border-radius: 5px;
   text-align: center;
-  height: 300px;
+  height: 200px;
+  margin: 10px;
 }
 
 .word {
   font-size: 20pt;
   color: blue;
   font-weight: bold;
+  padding-top: 20%;
 }
 
 .definition {
   display: none;
+  padding: 25% 5px 0px 5px;
 }
