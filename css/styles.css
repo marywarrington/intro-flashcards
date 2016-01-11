@@ -9,3 +9,7 @@
   color: blue;
   font-weight: bold;
 }
+
+#definition {
+  display: none;
+}
