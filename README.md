@@ -17,11 +17,11 @@ The resources for this website (bootstrap, jQuery) are included.
 
 ## Known Bugs
 
-No known bugs at this time.
+Text in flashcards can overflow when viewport is very narrow.
 
 ## Support and contact details
 
-You can contact the authors of this project at joseph.karasek@gmail.com.
+You can contact the authors of this project at joseph.karasek@gmail.com. or marywarrington@gmail.com.
 
 ## Technologies Used
 
