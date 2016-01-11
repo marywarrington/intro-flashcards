@@ -13,6 +13,5 @@ jQuery(document).ready(function(){
     // $("this.word").toggle();
     // $("this.definition").toggle();
 
-  })
-
+  });
 });
