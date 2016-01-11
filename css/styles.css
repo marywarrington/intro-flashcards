@@ -5,12 +5,12 @@
   height: 300px;
 }
 
-#word {
+.word {
   font-size: 20pt;
   color: blue;
   font-weight: bold;
 }
 
-#definition {
+.definition {
   display: none;
 }
