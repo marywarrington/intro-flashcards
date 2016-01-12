@@ -1,0 +1,3 @@
+Everything is beautiful, except for container class misuse. According to bootstrap,
+container should not be nested. It's used to contain bodies of content or rows, and
+all the css for container class was overwritten by the column classes
